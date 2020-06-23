@@ -83,7 +83,7 @@ pip install sqlite3
 
 ## Launching bot
 
-After downloading python code, and installing all neccesary packages, you need to put your bot token into file "loader.py", into variable BOT_TOKEN.
+After downloading python code, and installing all neccesary packages, you need to put your bot token into file "config.py", into variable BOT_TOKEN.
 
 Then just run file "app.py"
 
